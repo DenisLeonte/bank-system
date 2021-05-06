@@ -2,5 +2,5 @@
 #define SYSCOMMS_H
 void clear();
 void pause();
-void writeToFile();
+inline void writeToFile();
 #endif
